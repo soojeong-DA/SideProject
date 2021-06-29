@@ -11,7 +11,7 @@
 ```
 
 ## Dashboard
-:point_right: Tableau 대시보드 Link: [User Retention](https://public.tableau.com/app/profile/.52832678/viz/UserRetention_16249748567350/1, "Dashboard Link")
+:point_right: Tableau 대시보드 Link: [User Retention](https://public.tableau.com/app/profile/.52832678/viz/UserRetention_16249748567350/1)
 
 <img src="./image/Dashboard.PNG" width="450">
 <img src="./image/Dashboard with highlight.PNG" width="450">
