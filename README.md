@@ -1,5 +1,6 @@
 # Dacon User Acquisition & Retention
 - Python plotly 시각화 라이브러리를 활용한 유저 행동 데이터 분석
+	→ 시각화 결과물 확인용 html을 다운받아 확인해주세요
 - User Acquisition & Retention에 대한 Tableau 대시보드 제작 
 	- 데이콘 대회 사이트 유저의 획득과 유지를 가입일(cohort)에 따라 살펴보며 현황 파악 및 개선 방향 제시
 	- 주기적으로 방문하지 않는 대회 사이트 특성을 고려해 Rolling Retention 측정 방법 활용함
@@ -10,7 +11,7 @@
 ```
 
 ## Dashboard
-- url
+:point_right: Tableau 대시보드 Link: [User Retention](https://public.tableau.com/app/profile/.52832678/viz/UserRetention_16249748567350/1, "Dashboard Link")
 <img src="./image/Dashboard.PNG" width="450">
 <img src="./image/Dashboard with highlight.PNG" width="450">
 
