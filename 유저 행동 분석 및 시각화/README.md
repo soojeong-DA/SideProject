@@ -8,7 +8,7 @@
 ```
 
 ##  Python plotly 시각화 라이브러리를 활용한 유저 행동 데이터 분석
-- [nbviewer로 확인](https://nbviewer.jupyter.org/gist/ssujeong/0313b628e577c148ca715fd58bb4e078)
+- [nbviewer로 확인](https://nbviewer.jupyter.org/gist/ssujeong/236869d629b403217677ae91888cc69f)
 - or 결과 확인용 html을 다운받아 확인
 
 
