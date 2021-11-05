@@ -8,8 +8,8 @@
 ```
 
 ##  Python plotly 시각화 라이브러리를 활용한 유저 행동 데이터 분석
-- [nbviewer로 확인](https://nbviewer.jupyter.org/gist/ssujeong/236869d629b403217677ae91888cc69f)
-- or 결과 확인용 html을 다운받아 확인
+- [데이콘 유저 행동 분석_nbviewer로 확인](https://nbviewer.jupyter.org/gist/ssujeong/236869d629b403217677ae91888cc69f)
+- 결과 확인용 html을 다운받아 확인할 수도 있습니다.
 
 
 ## Dashboard
