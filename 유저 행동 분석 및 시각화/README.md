@@ -1,10 +1,10 @@
 # Dacon User Acquisition & Retention
 `#Python` `#Tableau` 
 ```
-	데이콘 유저 행동 데이터를 활용해
-	- 유저의 행동 패턴을 분석하고
-	- Acquisition & Retention을 가입일(cohort)에 따라 살펴보며 현황 파악 및 개선 방향 제시
-		- 주기적으로 방문하지 않는 대회 사이트 특성을 고려해 Rolling Retention 측정 방법 활용함
+	데이콘 대회 사이트의 Acquisition & Retention을 가입일(cohort)에 따라 Tableau Dashboard에 구현
+	- 가입일(cohort)에 따라 현황 파악
+	- 리텐션 감소 원인 탐색 및 개선 방향성 제시
+	- 주기적으로 방문하지 않는 대회 사이트 특성을 고려해 Rolling Retention 측정 방법 활용함
 ```
 
 ##  Python plotly 시각화 라이브러리를 활용한 유저 행동 데이터 분석
